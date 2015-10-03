@@ -1,0 +1,7 @@
+Learning references URL:
+https://en.wikipedia.org/wiki/Sliding_window_protocol
+https://youtu.be/9BuaeEjIeQI
+https://courses.cs.washington.edu/courses/cse461/07wi/lectures/l10.pdf
+https://www.youtube.com/watch?v=elq4gEeFmg4
+http://authors.phptr.com/tanenbaumcn4/samples/section03_04.pdf
+http://www.scs.stanford.edu/09au-cs144/notes/l2-print.pdf

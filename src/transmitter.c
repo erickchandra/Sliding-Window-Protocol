@@ -15,12 +15,16 @@
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <netdb.h>
+#include <pthread.h>
+#include <strings.h>
+#include <unistd.h>
+#include "dcomm.h"
 
 // Global dictionaries
 
 
 // Function Declaration
-
+void hError(char *msg);
 
 // Main program
 int main(int argc, char *argv[]) {
@@ -29,3 +33,7 @@ int main(int argc, char *argv[]) {
 }
 
 // Function Definition Realisation
+void hError(char *msg) {
+	perror(msg);
+	exit(1);
+}
