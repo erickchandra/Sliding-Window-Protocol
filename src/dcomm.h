@@ -38,13 +38,13 @@ typedef struct MESGB
 	unsigned int stx;
 	unsigned int etx;
 	Byte checksum;
-	Byte frame;
+	Byte msgno;
 	Byte *data;
 } MESGB;
 typedef struct ACKMS
 {
 	unsigned int ack;
-	Byte frameno;
+	Byte msgno;
 	Byte checksum;
 } ACKMS;
 #endif

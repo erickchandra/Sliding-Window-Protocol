@@ -4,7 +4,7 @@
  * Colleague 1			: Candy Olivia Mawalim
  * Colleague 1 email	: 
  * Colleague 2			: Ignatius Alriana Moel
- * Colleague 3 email	: 
+ * Colleague 2 email	: 
  * Description			: This program is created to complete Computer Networks course assignment.
  * Topic				: Sliding Window Protocol + flow control and error control
  * References			: Found in the document
